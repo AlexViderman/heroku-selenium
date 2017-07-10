@@ -1,6 +1,7 @@
 # heroku-selenium
 
 * git clone https://github.com/AlexViderman/heroku-selenium.git
+* cd heroku-selenium
 * heroku create --buildpack heroku/nodejs
 * heroku buildpacks:add --index 1 https://github.com/stomita/heroku-buildpack-phantomjs
 * git push heroku master
