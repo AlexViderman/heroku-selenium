@@ -4,5 +4,5 @@
 * heroku create --buildpack heroku/nodejs
 * heroku buildpacks:add --index 1 https://github.com/stomita/heroku-buildpack-phantomjs
 * git push heroku master
-* open in browser: https://<random app name>.herokuapp.com/test
+* open in browser: https://[random app name].herokuapp.com/test
 * you should see "Done" in teh browser if it ran successfully
