@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.15.3",
     "selenium-webdriver": "^3.4.0"
   },
   "engines": {
-    "node": "6.10.3",
+    "node": "6.11.1",
     "npm": "4.5.0"
   }
 }
